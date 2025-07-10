@@ -1,0 +1,7 @@
+{
+    "Normalization": [0,200],
+    "Chlorine": [201,300],
+    "Monatomic Oxygen": [301,800],
+    "Diatomic Oxygen": [801, 1150],
+    "C2+": [1151, 2000]
+}
