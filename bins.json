@@ -1,7 +1,8 @@
 {
     "Normalization": [0,200],
     "Chlorine": [201,300],
-    "Monatomic Oxygen": [301,800],
-    "Diatomic Oxygen": [801, 1150],
+    "Monatomic Oxygen": [301,620],
+    "Peroxo": [621, 850],
+    "Superoxo": [851, 1000],
     "C2+": [1151, 2000]
 }
